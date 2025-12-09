@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Omar Sayed Ali
 
-<!--
-**omarsayedali/omarsayedali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Developer | Flask Web Apps | Backend Development & Automation**
 
-Here are some ideas to get you started:
+I build web applications and automation solutions using Python and Flask.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Python, SQL, HTML/CSS, JavaScript
+- **Frameworks:** Flask, Bootstrap, Jinja2
+- **Tools:** Git, Docker, PostgreSQL, Railway, VS Code
+- **Databases:** JSON, PostgreSQL, MySQL (learning)
+
+## 🚀 Projects
+
+### [Expense Tracker Web Application](https://expense-tracker-production-1ac6.up.railway.app)
+Full-stack expense management app with budget tracking and real-time warnings.
+
+**Tech Stack:** Python, Flask, Docker, Railway  
+**Features:**
+- CRUD operations for expense management
+- Category filtering
+- Budget tracking with percentage-based warnings (90% danger, 70% caution)
+- Responsive UI with CSS animations
+- Deployed to production with Docker
+
+**[Live Demo](https://expense-tracker-production-1ac6.up.railway.app)** | **[GitHub Repo](https://github.com/omarsayedali/expense-tracker)**
+
+---
+
+## 📫 Contact
+- **Email:** omarsyed5745@gmail.com
+- **Upwork:** [View Profile](#) 
+- **Location:** Cairo, Egypt
+
+---
+
+💼 Available for freelance projects and full-time opportunities.
