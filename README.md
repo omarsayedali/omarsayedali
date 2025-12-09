@@ -23,7 +23,7 @@ Full-stack expense management app with budget tracking and real-time warnings.
 - Responsive UI with CSS animations
 - Deployed to production with Docker
 
-**[Live Demo](https://expense-tracker-production-1ac6.up.railway.app)** | **[GitHub Repo](https://github.com/omarsayedali/expense-tracker)**
+**[Live Demo]([https://expense-tracker-production-1ac6.up.railway.app](https://expense-tracker-production-4936.up.railway.app/))** | **[GitHub Repo](https://github.com/omarsayedali/expense-tracker)**
 
 ---
 
