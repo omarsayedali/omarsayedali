@@ -41,14 +41,13 @@ I don't just write code; I ship products that solve real problems.
     *   Background workers for scheduled tracking.
     *   Deployed on Railway Cloud.
 
-#### 🤖 [The Sniper - AI Job Bot](https://github.com/omarsayedali/the-sniper-job-bot)
-*A 24/7 automated bot that hunts for freelance jobs while I sleep.*
-*   **Core Tech:** Python, SQLite, Telegram API, RSS Feeds.
+#### 🤖 [The Sniper V2.0 - AI Job Hunter](https://github.com/omarsayedali/the-sniper-job-bot)
+*An intelligent automation bot that hunts for freelance jobs and writes proposals using AI.*
+*   **Core Tech:** Python, Google Gemini API, SQLite.
 *   **Key Features:**
-    *   Multi-source scraping (Upwork, Mostaql, RemoteOK).
-    *   Smart filtering (removes irrelevant jobs).
-    *   Instant **Telegram Notifications** with "One-Click Apply" links.
-    *   Smart Deduplication using SQLite.
+    *   **AI Brain:** Auto-generates custom proposals based on job descriptions.
+    *   **Smart Filtering:** Ignores noise, targets specific tech keywords.
+    *   **Zero-Friction:** Delivers "Ready-to-Apply" text to Telegram 24/7.
 
 #### 💸 [Expense Tracker](https://github.com/omarsayedali/expense-tracker)
 *A robust financial management web app.*
