@@ -69,10 +69,6 @@ I don't just write code; I ship products that solve real problems.
 
 ---
 
-### 📊 GitHub Stats
-
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarsayedali&show_icons=true&theme=radical&hide_border=true)
----
 
 <p align="center">
   <i>Available for freelance projects and full-time opportunities.</i>
