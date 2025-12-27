@@ -71,10 +71,7 @@ I don't just write code; I ship products that solve real problems.
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarsayedali&show_icons=true&theme=radical&hide_border=true" alt="Omar's GitHub Stats" />
-</p>
-
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarsayedali&show_icons=true&theme=radical&hide_border=true)
 ---
 
 <p align="center">
